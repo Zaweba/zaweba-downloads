@@ -13,6 +13,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 
 | App | What it is | Latest version | Download |
 |---|---|---|---|
+| [Anima by Zaweba](https://www.zaweba.com/software/anima/) | Animation studio | 0.5.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/anima-v0.5.5/ZawebaAnima-0.5.5-beta.zip) (71 MB) |
 | [Backup by Zaweba](https://www.zaweba.com/software/backup/) | Folder backup and sync tool | 1.0.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/backup-v1.0.5/ZawebaBackup-1.0.5-beta.zip) (59 MB) |
 | [Base by Zaweba](https://www.zaweba.com/software/base/) | Database builder | 1.0.2 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/base-v1.0.2/ZawebaBase-1.0.2-beta.zip) (61 MB) |
 | [Burn by Zaweba](https://www.zaweba.com/software/burn/) | Disc burning and ISO tool | 1.0.2 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/burn-v1.0.2/ZawebaBurn-1.0.2-beta.zip) (59 MB) |
@@ -26,6 +27,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Firewall by Zaweba](https://www.zaweba.com/software/firewall/) | Network monitor and firewall | 0.1.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/firewall-v0.1.5/ZawebaFirewall-0.1.5-beta.zip) (1.1 MB) |
 | [Font by Zaweba](https://www.zaweba.com/software/font/) | Font maker | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/font-v1.0.3/ZawebaFont-1.0.3-beta.zip) (80 MB) |
 | [FTP by Zaweba](https://www.zaweba.com/software/ftp/) | FTP client and website editor | 0.1.6 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/ftp-v0.1.6/ZawebaFTP-0.1.6-beta.zip) (63 MB) |
+| [Labels by Zaweba](https://www.zaweba.com/software/labels/) | Address book and label printer | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/labels-v1.0.3/ZawebaLabels-1.0.3-beta.zip) (61 MB) |
 | [Loop by Zaweba](https://www.zaweba.com/software/loop/) | Music maker | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/loop-v1.0.3/ZawebaLoop-1.0.3-beta.zip) (211 MB) |
 | [Macro by Zaweba](https://www.zaweba.com/software/macro/) | Macro recorder | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/macro-v1.0.4/ZawebaMacro-1.0.4-beta.zip) (59 MB) |
 | [Mix by Zaweba](https://www.zaweba.com/software/mix/) | DJ mixer | 1.0.2 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mix-v1.0.2/ZawebaMix-1.0.2-beta.zip) (87 MB) |
@@ -53,7 +55,7 @@ ZIP's SHA-256.
 
 ## Beta
 
-33 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Please tell us what breaks and what you would like:
+35 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Please tell us what breaks and what you would like:
 [send feedback](https://www.zaweba.com/feedback/) (or Help › Send feedback in any app).
 
 **Windows may warn you the first time.** The apps aren't signed (approved) for Windows yet, so SmartScreen may show
