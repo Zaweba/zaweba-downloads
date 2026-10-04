@@ -27,9 +27,12 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Firewall by Zaweba](https://www.zaweba.com/software/firewall/) | Network monitor and firewall | 0.1.6 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/firewall-v0.1.6/ZawebaFirewall-0.1.6-beta.zip) (1.0 MB) |
 | [Font by Zaweba](https://www.zaweba.com/software/font/) | Font maker | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/font-v1.0.4/ZawebaFont-1.0.4-beta.zip) (80 MB) |
 | [FTP by Zaweba](https://www.zaweba.com/software/ftp/) | FTP client and website editor | 0.1.7 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/ftp-v0.1.7/ZawebaFTP-0.1.7-beta.zip) (63 MB) |
+| [Games by Zaweba](https://www.zaweba.com/software/games/) | Collection of 82 original games | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/games-v1.0.0/ZawebaGames-1.0.0-beta.zip) (64 MB) |
+| [Image Viewer by Zaweba](https://www.zaweba.com/software/image-viewer/) | Picture viewer | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/imageviewer-v1.0.0/ZawebaImageViewer-1.0.0-beta.zip) (58 MB) |
 | [Labels by Zaweba](https://www.zaweba.com/software/labels/) | Address book and label printer | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/labels-v1.0.4/ZawebaLabels-1.0.4-beta.zip) (61 MB) |
 | [Loop by Zaweba](https://www.zaweba.com/software/loop/) | Music maker | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/loop-v1.0.4/ZawebaLoop-1.0.4-beta.zip) (211 MB) |
 | [Macro by Zaweba](https://www.zaweba.com/software/macro/) | Macro recorder | 1.0.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/macro-v1.0.5/ZawebaMacro-1.0.5-beta.zip) (59 MB) |
+| [Mall by Zaweba](https://www.zaweba.com/software/mall/) | 3D shopping mall web browser | 0.1.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mall-v0.1.5/ZawebaMall-0.1.5-beta.zip) (140 MB) |
 | [Mix by Zaweba](https://www.zaweba.com/software/mix/) | DJ mixer | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mix-v1.0.3/ZawebaMix-1.0.3-beta.zip) (87 MB) |
 | [Money by Zaweba](https://www.zaweba.com/software/money/) | Personal finance app | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/money-v1.0.3/ZawebaMoney-1.0.3-beta.zip) (61 MB) |
 | [Paint by Zaweba](https://www.zaweba.com/software/paint/) | Image editor | 0.1.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/paint-v0.1.5/ZawebaPaint-0.1.5-beta.zip) (69 MB) |
@@ -43,6 +46,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Scene by Zaweba](https://www.zaweba.com/software/scene/) | Desktop themes app | 1.1.1 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/scene-v1.1.1/ZawebaScene-1.1.1-beta.zip) (66 MB) |
 | [Schedule by Zaweba](https://www.zaweba.com/software/schedule/) | Task scheduler | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/schedule-v1.0.3/ZawebaSchedule-1.0.3-beta.zip) (63 MB) |
 | [Screensavers by Zaweba](https://www.zaweba.com/software/screensavers/) | Screensaver pack and maker | 1.1.1 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/screensavers-v1.1.1/ZawebaScreensavers-1.1.1-beta.zip) (60 MB) |
+| [SEO by Zaweba](https://www.zaweba.com/software/seo/) | Website SEO coach | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/seo-v1.0.4/ZawebaSEO-1.0.4-beta.zip) (61 MB) |
 | [Snap by Zaweba](https://www.zaweba.com/software/snap/) | Screen capture tool | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/snap-v1.0.3/ZawebaSnap-1.0.3-beta.zip) (63 MB) |
 | [Type by Zaweba](https://www.zaweba.com/software/type/) | Touch-typing tutor | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/type-v1.0.4/ZawebaType-1.0.4-beta.zip) (59 MB) |
 | [Vectornation by Zaweba](https://www.zaweba.com/software/vectornation/) | Professional vector editor | 0.1.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/vectornation-v0.1.3/ZawebaVectornation-0.1.3-beta.zip) (61 MB) |
@@ -55,7 +59,7 @@ ZIP's SHA-256.
 
 ## Beta
 
-36 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
+40 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
 1 January it reminds you to download the latest version, and from 1 February 2027 it no longer opens (your files and
 settings are always kept). Please tell us what breaks and what you would like:
 [send feedback](https://www.zaweba.com/feedback/) (or Help › Send feedback in any app).
