@@ -29,7 +29,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Font by Zaweba](https://www.zaweba.com/software/font/) | Font maker | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/font-v1.0.4/ZawebaFont-1.0.4-beta.zip) (87 MB) |
 | [FTP by Zaweba](https://www.zaweba.com/software/ftp/) | FTP client and website editor | 0.2.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/ftp-v0.2.0/ZawebaFTP-0.2.0-beta.zip) (75 MB) |
 | [Games by Zaweba](https://www.zaweba.com/software/games/) | Collection of 82 original games | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/games-v1.0.0/ZawebaGames-1.0.0-beta.zip) (64 MB) |
-| [Grid by Zaweba](https://www.zaweba.com/software/grid/) | Spreadsheet | 1.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/grid-v1.0.0/ZawebaGrid-1.0.0.zip) (69 MB) |
+| [Grid by Zaweba](https://www.zaweba.com/software/grid/) | Spreadsheet | 1.1.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/grid-v1.1.0/ZawebaGrid-1.1.0.zip) (69 MB) |
 | [Icon by Zaweba](https://www.zaweba.com/software/icons/) | Icon and favicon maker | 1.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/icon-v1.0.0/ZawebaIcon-1.0.0.zip) (65 MB) |
 | [Image Viewer by Zaweba](https://www.zaweba.com/software/image-viewer/) | Picture viewer | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/imageviewer-v1.0.0/ZawebaImageViewer-1.0.0-beta.zip) (58 MB) |
 | [Jotter by Zaweba](https://www.zaweba.com/software/jotter/) | Tabbed notepad | 1.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/jotter-v1.0.0/ZawebaJotter-1.0.0.zip) (0.1 MB) |
@@ -58,7 +58,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Vectornation by Zaweba](https://www.zaweba.com/software/vectornation/) | Professional vector editor | 0.5.1 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/vectornation-v0.5.1/ZawebaVectornation-0.5.1.zip) (68 MB) |
 | [Video by Zaweba](https://www.zaweba.com/software/video/) | Video editor | 0.1.6 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/video-v0.1.6/ZawebaVideo-0.1.6-beta.zip) (559 MB) |
 | [Wonder by Zaweba](https://www.zaweba.com/software/wonder/) | Offline encyclopedia | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/wonder-v1.0.4/ZawebaWonder-1.0.4-beta.zip) (68 MB) |
-| [Write by Zaweba](https://www.zaweba.com/software/write/) | Word processor | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/write-v1.0.3/ZawebaWrite-1.0.3-beta.zip) (63 MB) |
+| [Write by Zaweba](https://www.zaweba.com/software/write/) | Word processor | 1.2.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/write-v1.2.0/ZawebaWrite-1.2.0-beta.zip) (70 MB) |
 | [ZIP by Zaweba](https://www.zaweba.com/software/zip/) | ZIP archive tool | 1.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/zip-v1.0.0/ZawebaZip-1.0.0.zip) (66 MB) |
 
 Each app's release page ([Releases](https://github.com/Zaweba/zaweba-downloads/releases)) has its install notes, requirements and the
