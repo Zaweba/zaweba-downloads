@@ -58,7 +58,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Vectornation by Zaweba](https://www.zaweba.com/software/vectornation/) | Professional vector editor | 0.5.1 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/vectornation-v0.5.1/ZawebaVectornation-0.5.1.zip) (68 MB) |
 | [Video by Zaweba](https://www.zaweba.com/software/video/) | Video editor | 0.1.6 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/video-v0.1.6/ZawebaVideo-0.1.6-beta.zip) (559 MB) |
 | [Wonder by Zaweba](https://www.zaweba.com/software/wonder/) | Offline encyclopedia | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/wonder-v1.0.4/ZawebaWonder-1.0.4-beta.zip) (68 MB) |
-| [Write by Zaweba](https://www.zaweba.com/software/write/) | Word processor | 1.2.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/write-v1.2.0/ZawebaWrite-1.2.0-beta.zip) (70 MB) |
+| [Write by Zaweba](https://www.zaweba.com/software/write/) | Word processor | 1.2.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/write-v1.2.0/ZawebaWrite-1.2.0.zip) (70 MB) |
 | [ZIP by Zaweba](https://www.zaweba.com/software/zip/) | ZIP archive tool | 1.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/zip-v1.0.0/ZawebaZip-1.0.0.zip) (66 MB) |
 
 Each app's release page ([Releases](https://github.com/Zaweba/zaweba-downloads/releases)) has its install notes, requirements and the
@@ -66,7 +66,7 @@ ZIP's SHA-256.
 
 ## Beta
 
-38 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
+37 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
 1 January it reminds you to download the latest version, and from 1 February 2027 it no longer opens (your files and
 settings are always kept). Please tell us what breaks and what you would like:
 [send feedback](https://www.zaweba.com/feedback/) (or Help › Send feedback in any app).
