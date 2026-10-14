@@ -27,6 +27,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Font by Zaweba](https://www.zaweba.com/software/font/) | Font maker | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/font-v1.0.4/ZawebaFont-1.0.4-beta.zip) (87 MB) |
 | [FTP by Zaweba](https://www.zaweba.com/software/ftp/) | FTP client and website editor | 0.2.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/ftp-v0.2.0/ZawebaFTP-0.2.0-beta.zip) (75 MB) |
 | [Games by Zaweba](https://www.zaweba.com/software/games/) | Collection of 82 original games | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/games-v1.0.0/ZawebaGames-1.0.0-beta.zip) (64 MB) |
+| [Icon by Zaweba](https://www.zaweba.com/software/icon/) | Icon and favicon maker | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/icon-v1.0.0/ZawebaIcon-1.0.0-beta.zip) (65 MB) |
 | [Image Viewer by Zaweba](https://www.zaweba.com/software/image-viewer/) | Picture viewer | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/imageviewer-v1.0.0/ZawebaImageViewer-1.0.0-beta.zip) (58 MB) |
 | [Labels by Zaweba](https://www.zaweba.com/software/labels/) | Address book and label printer | 1.1.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/labels-v1.1.0/ZawebaLabels-1.1.0-beta.zip) (67 MB) |
 | [Loop by Zaweba](https://www.zaweba.com/software/loop/) | Music maker | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/loop-v1.0.4/ZawebaLoop-1.0.4-beta.zip) (214 MB) |
@@ -51,13 +52,14 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Video by Zaweba](https://www.zaweba.com/software/video/) | Video editor | 0.1.6 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/video-v0.1.6/ZawebaVideo-0.1.6-beta.zip) (559 MB) |
 | [Wonder by Zaweba](https://www.zaweba.com/software/wonder/) | Offline encyclopedia | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/wonder-v1.0.4/ZawebaWonder-1.0.4-beta.zip) (68 MB) |
 | [Write by Zaweba](https://www.zaweba.com/software/write/) | Word processor | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/write-v1.0.3/ZawebaWrite-1.0.3-beta.zip) (63 MB) |
+| [Zip by Zaweba](https://www.zaweba.com/software/zip/) | ZIP archive tool | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/zip-v1.0.0/ZawebaZip-1.0.0-beta.zip) (66 MB) |
 
 Each app's release page ([Releases](https://github.com/Zaweba/zaweba-downloads/releases)) has its install notes, requirements and the
 ZIP's SHA-256.
 
 ## Beta
 
-35 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
+37 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
 1 January it reminds you to download the latest version, and from 1 February 2027 it no longer opens (your files and
 settings are always kept). Please tell us what breaks and what you would like:
 [send feedback](https://www.zaweba.com/feedback/) (or Help › Send feedback in any app).
