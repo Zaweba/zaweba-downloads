@@ -40,8 +40,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Mix by Zaweba](https://www.zaweba.com/software/mix/) | DJ mixer | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mix-v1.0.3/ZawebaMix-1.0.3-beta.zip) (87 MB) |
 | [Money by Zaweba](https://www.zaweba.com/software/money/) | Personal finance app | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/money-v1.0.3/ZawebaMoney-1.0.3-beta.zip) (61 MB) |
 | [Paint by Zaweba](https://www.zaweba.com/software/paint/) | Image editor | 0.2.1 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/paint-v0.2.1/ZawebaPaint-0.2.1.zip) (98 MB) |
-| [PDF by Zaweba](https://www.zaweba.com/software/pdf/) | Fast PDF viewer | 0.1.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pdf-v0.1.5/ZawebaPDF-0.1.5-beta.zip) (72 MB) |
-| [Play by Zaweba](https://www.zaweba.com/software/play/) | Music player | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/play-v1.0.3/ZawebaPlay-1.0.3-beta.zip) (148 MB) |
+| [PDF by Zaweba](https://www.zaweba.com/software/pdf/) | Fast PDF viewer | 0.2.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pdf-v0.2.0/ZawebaPDF-0.2.0-beta.zip) (72 MB) |
 | [Pub Converter by Zaweba](https://www.zaweba.com/software/pub-converter/) | Converter for .pub files | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pubconvert-v1.0.3/ZawebaPubConvert-1.0.3-beta.zip) (88 MB) |
 | [Publish by Zaweba](https://www.zaweba.com/software/publish/) | Desktop publishing app | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/publish-v1.0.3/ZawebaPublish-1.0.3-beta.zip) (60 MB) |
 | [Pulse by Zaweba](https://www.zaweba.com/software/pulse/) | System monitor with a memory | 1.0.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pulse-v1.0.5/ZawebaPulse-1.0.5-beta.zip) (75 MB) |
@@ -66,7 +65,7 @@ ZIP's SHA-256.
 
 ## Beta
 
-37 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
+36 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
 1 January it reminds you to download the latest version, and from 1 February 2027 it no longer opens (your files and
 settings are always kept). Please tell us what breaks and what you would like:
 [send feedback](https://www.zaweba.com/feedback/) (or Help › Send feedback in any app).
