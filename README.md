@@ -25,9 +25,8 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Disk Sort by Zaweba](https://www.zaweba.com/software/disk-sort/) | Disk space analyser and photo sorter | 0.1.9 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/disksort-v0.1.9/ZawebaDiskSort-0.1.9-beta.zip) (67 MB) |
 | [Easel by Zaweba](https://www.zaweba.com/software/easel/) | Natural-media painting studio | 1.2.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/easel-v1.2.0/ZawebaEasel-1.2.0.zip) (66 MB) |
 | [Family by Zaweba](https://www.zaweba.com/software/family/) | Family tree builder | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/family-v1.0.3/ZawebaFamily-1.0.3-beta.zip) (61 MB) |
-| [Firewall by Zaweba](https://www.zaweba.com/software/firewall/) | Network monitor and firewall | 0.1.6 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/firewall-v0.1.6/ZawebaFirewall-0.1.6-beta.zip) (1.0 MB) |
 | [Font by Zaweba](https://www.zaweba.com/software/font/) | Font maker | 1.0.4 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/font-v1.0.4/ZawebaFont-1.0.4-beta.zip) (87 MB) |
-| [FTP by Zaweba](https://www.zaweba.com/software/ftp/) | FTP client and website editor | 0.2.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/ftp-v0.2.0/ZawebaFTP-0.2.0-beta.zip) (75 MB) |
+| [FTP by Zaweba](https://www.zaweba.com/software/ftp/) | FTP client and website editor | 0.2.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/ftp-v0.2.6/ZawebaFTP-0.2.6.zip) (75 MB) |
 | [Games by Zaweba](https://www.zaweba.com/software/games/) | Collection of 82 original games | 1.0.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/games-v1.0.0/ZawebaGames-1.0.0-beta.zip) (64 MB) |
 | [Grid by Zaweba](https://www.zaweba.com/software/grid/) | Spreadsheet | 1.1.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/grid-v1.1.0/ZawebaGrid-1.1.0.zip) (69 MB) |
 | [Icon by Zaweba](https://www.zaweba.com/software/icons/) | Icon and favicon maker | 1.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/icon-v1.0.0/ZawebaIcon-1.0.0.zip) (65 MB) |
@@ -39,8 +38,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Macro by Zaweba](https://www.zaweba.com/software/macro/) | Macro recorder | 1.0.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/macro-v1.0.5/ZawebaMacro-1.0.5-beta.zip) (65 MB) |
 | [Mix by Zaweba](https://www.zaweba.com/software/mix/) | DJ mixer | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mix-v1.0.3/ZawebaMix-1.0.3-beta.zip) (87 MB) |
 | [Money by Zaweba](https://www.zaweba.com/software/money/) | Personal finance app | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/money-v1.0.3/ZawebaMoney-1.0.3-beta.zip) (61 MB) |
-| [Paint by Zaweba](https://www.zaweba.com/software/paint/) | Image editor | 0.2.1 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/paint-v0.2.1/ZawebaPaint-0.2.1.zip) (98 MB) |
-| [PDF by Zaweba](https://www.zaweba.com/software/pdf/) | Fast PDF viewer and text editor | 0.4.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pdf-v0.4.0/ZawebaPDF-0.4.0-beta.zip) (72 MB) |
+| [PDF by Zaweba](https://www.zaweba.com/software/pdf/) | Fast PDF viewer, text editor and printing | 0.4.0 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pdf-v0.4.0/ZawebaPDF-0.4.0-beta.zip) (72 MB) |
 | [Pub Converter by Zaweba](https://www.zaweba.com/software/pub-converter/) | Converter for .pub files | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pubconvert-v1.0.3/ZawebaPubConvert-1.0.3-beta.zip) (88 MB) |
 | [Publish by Zaweba](https://www.zaweba.com/software/publish/) | Desktop publishing app | 1.0.3 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/publish-v1.0.3/ZawebaPublish-1.0.3-beta.zip) (60 MB) |
 | [Pulse by Zaweba](https://www.zaweba.com/software/pulse/) | System monitor with a memory | 1.0.5 (beta) | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pulse-v1.0.5/ZawebaPulse-1.0.5-beta.zip) (75 MB) |
@@ -65,7 +63,7 @@ ZIP's SHA-256.
 
 ## Beta
 
-36 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
+34 of these apps are **betas**: Free while Zaweba is in beta. When it launches, beta users get 12 months free, then 50% off for 5 years. Prices will be confirmed at launch. Each beta works until **31 January 2027**: from
 1 January it reminds you to download the latest version, and from 1 February 2027 it no longer opens (your files and
 settings are always kept). Please tell us what breaks and what you would like:
 [send feedback](https://www.zaweba.com/feedback/) (or Help › Send feedback in any app).
