@@ -13,6 +13,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 
 | App | What it is | Latest version | Download |
 |---|---|---|---|
+| 3D by Zaweba |  | 1.5.1 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/3d-v1.5.1/Zaweba3D-1.5.1.zip) (67 MB) |
 | [Anima by Zaweba](https://www.zaweba.com/software/anima/) | Animation studio | 0.5.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/anima-v0.5.6/ZawebaAnima-0.5.6-beta.zip) (78 MB) |
 | [Backup by Zaweba](https://www.zaweba.com/software/backup/) | Folder backup and sync tool | 1.0.9 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/backup-v1.0.9/ZawebaBackup-1.0.9.zip) (66 MB) |
 | [Barcode by Zaweba](https://www.zaweba.com/software/barcode/) | Barcode creator | 1.0.4 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/barcode-v1.0.4/ZawebaBarcode-1.0.4.zip) (66 MB) |
@@ -22,8 +23,12 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Colour by Zaweba](https://www.zaweba.com/software/colour/) | Screen colour picker | 1.0.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/colour-v1.0.2/ZawebaColour-1.0.2.zip) (0.2 MB) |
 | [Contact by Zaweba](https://www.zaweba.com/software/contact-manager/) | Contact and enquiry manager | 4.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/contact-v4.0.0/ZawebaContact-4.0.0-beta.zip) (97 MB) |
 | [Cut by Zaweba](https://www.zaweba.com/software/cut/) | Video cutter and converter | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/cut-v1.0.6/ZawebaCut-1.0.6.zip) (87 MB) |
+| Developer by Zaweba |  | 1.6.1 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/developer-v1.6.1/ZawebaDeveloper-1.6.1.zip) (87 MB) |
+| Disk by Zaweba |  | 0.1.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/disk-v0.1.7/ZawebaDisk-0.1.7.zip) (66 MB) |
 | [Disk Sort by Zaweba](https://www.zaweba.com/software/disk-sort/) | Disk space analyser and photo sorter | 0.1.14 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/disksort-v0.1.14/ZawebaDiskSort-0.1.14.zip) (67 MB) |
+| [Draw by Zaweba](https://www.zaweba.com/software/draw/) | Vector illustration app | 1.0.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/draw-v1.0.7/ZawebaDraw-1.0.7.zip) (66 MB) |
 | [Easel by Zaweba](https://www.zaweba.com/software/easel/) | Natural-media painting studio | 1.2.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/easel-v1.2.2/ZawebaEasel-1.2.2.zip) (66 MB) |
+| Effects by Zaweba |  | 0.4.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/effects-v0.4.2/ZawebaEffects-0.4.2.zip) (130 MB) |
 | [Family by Zaweba](https://www.zaweba.com/software/family/) | Family tree builder | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/family-v1.0.6/ZawebaFamily-1.0.6.zip) (67 MB) |
 | [Font by Zaweba](https://www.zaweba.com/software/font/) | Font maker | 1.0.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/font-v1.0.7/ZawebaFont-1.0.7.zip) (87 MB) |
 | [FTP by Zaweba](https://www.zaweba.com/software/ftp/) | FTP client and website editor | 0.2.8 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/ftp-v0.2.8/ZawebaFTP-0.2.8.zip) (75 MB) |
@@ -32,12 +37,16 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Icon by Zaweba](https://www.zaweba.com/software/icons/) | Icon and favicon maker | 1.0.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/icon-v1.0.2/ZawebaIcon-1.0.2.zip) (65 MB) |
 | [Image Viewer by Zaweba](https://www.zaweba.com/software/image-viewer/) | Picture viewer | 1.0.3 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/imageviewer-v1.0.3/ZawebaImageViewer-1.0.3.zip) (65 MB) |
 | [Jotter by Zaweba](https://www.zaweba.com/software/jotter/) | Tabbed notepad | 1.0.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/jotter-v1.0.2/ZawebaJotter-1.0.2.zip) (0.1 MB) |
+| Kinetion by Zaweba |  | 0.9.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/kinetion-v0.9.6/ZawebaKinetion-0.9.6.zip) (81 MB) |
 | [Labels by Zaweba](https://www.zaweba.com/software/labels/) | Address book and label printer | 1.1.3 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/labels-v1.1.3/ZawebaLabels-1.1.3.zip) (67 MB) |
 | [Layout by Zaweba](https://www.zaweba.com/software/layout/) | Page layout app | 1.2.15 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/layout-v1.2.15/ZawebaLayout-1.2.15.zip) (81 MB) |
 | [Loop by Zaweba](https://www.zaweba.com/software/loop/) | Music maker | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/loop-v1.0.6/ZawebaLoop-1.0.6.zip) (214 MB) |
 | [Macro by Zaweba](https://www.zaweba.com/software/macro/) | Macro recorder | 1.0.8 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/macro-v1.0.8/ZawebaMacro-1.0.8.zip) (65 MB) |
+| [Mall by Zaweba](https://www.zaweba.com/software/mall/) | 3D shopping mall web browser | 0.3.21 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mall-v0.3.21/ZawebaMall-0.3.21.zip) (70 MB) |
+| MediaClipper by Zaweba |  | 1.0.1 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mediaclipper-v1.0.1/ZawebaMediaClipper-1.0.1.zip) (85 MB) |
 | [Mix by Zaweba](https://www.zaweba.com/software/mix/) | DJ mixer | 1.0.5 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mix-v1.0.5/ZawebaMix-1.0.5.zip) (89 MB) |
 | [Money by Zaweba](https://www.zaweba.com/software/money/) | Personal finance app | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/money-v1.0.6/ZawebaMoney-1.0.6.zip) (67 MB) |
+| Music by Zaweba |  | 0.25.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/music-v0.25.2/ZawebaMusic-0.25.2.zip) (69 MB) |
 | [Paint by Zaweba](https://www.zaweba.com/software/paint/) | Image editor | 0.3.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/paint-v0.3.6/ZawebaPaint-0.3.6.zip) (99 MB) |
 | [PDF by Zaweba](https://www.zaweba.com/software/pdf/) | Fast PDF viewer, text editor and printing | 0.9.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/pdf-v0.9.7/ZawebaPDF-0.9.7.zip) (73 MB) |
 | [Play by Zaweba](https://www.zaweba.com/software/play/) | Music player | 1.1.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/play-v1.1.2/ZawebaPlay-1.1.2.zip) (154 MB) |
@@ -52,7 +61,10 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Screensavers by Zaweba](https://www.zaweba.com/software/screensavers/) | Screensaver pack and maker | 1.2.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/screensavers-v1.2.2/ZawebaScreensavers-1.2.2.zip) (67 MB) |
 | [SEO by Zaweba](https://www.zaweba.com/software/seo/) | Website SEO coach | 1.0.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/seo-v1.0.7/ZawebaSEO-1.0.7.zip) (67 MB) |
 | [Snap by Zaweba](https://www.zaweba.com/software/snap/) | Screen capture tool | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/snap-v1.0.6/ZawebaSnap-1.0.6.zip) (66 MB) |
+| Sort by Zaweba |  | 0.2.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/sort-v0.2.6/ZawebaSort-0.2.6.zip) (67 MB) |
 | [Task List by Zaweba](https://www.zaweba.com/software/tasklist/) | To-do list and reminder app | 1.0.5 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/tasklist-v1.0.5/ZawebaTaskList-1.0.5.zip) (70 MB) |
+| TSX by Zaweba |  | 2.6.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/tsx-v2.6.2/ZawebaTSX-2.6.2.zip) (102 MB) |
+| TSXRecorder by Zaweba |  | 2.6.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/tsxrecorder-v2.6.2/ZawebaTSXRecorder-2.6.2.zip) (1.0 MB) |
 | [Type by Zaweba](https://www.zaweba.com/software/type/) | Touch-typing tutor | 1.0.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/type-v1.0.7/ZawebaType-1.0.7.zip) (65 MB) |
 | [Vectornation by Zaweba](https://www.zaweba.com/software/vectornation/) | Professional vector editor | 0.10.3 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/vectornation-v0.10.3/ZawebaVectornation-0.10.3.zip) (71 MB) |
 | [Video by Zaweba](https://www.zaweba.com/software/video/) | Video editor | 0.5.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/video-v0.5.2/ZawebaVideo-0.5.2.zip) (563 MB) |
