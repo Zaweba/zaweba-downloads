@@ -33,7 +33,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Image Viewer by Zaweba](https://www.zaweba.com/software/image-viewer/) | Picture viewer | 1.0.3 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/imageviewer-v1.0.3/ZawebaImageViewer-1.0.3.zip) (65 MB) |
 | [Jotter by Zaweba](https://www.zaweba.com/software/jotter/) | Tabbed notepad | 1.0.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/jotter-v1.0.2/ZawebaJotter-1.0.2.zip) (0.1 MB) |
 | [Labels by Zaweba](https://www.zaweba.com/software/labels/) | Address book and label printer | 1.1.3 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/labels-v1.1.3/ZawebaLabels-1.1.3.zip) (67 MB) |
-| [Layout by Zaweba](https://www.zaweba.com/software/layout/) | Page layout app | 1.2.15 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/layout-v1.2.15/ZawebaLayout-1.2.15.zip) (81 MB) |
+| [Layout by Zaweba](https://www.zaweba.com/software/layout/) | Page layout app | 2.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/layout-v2.0.0/ZawebaLayout-2.0.0.zip) (88 MB) |
 | [Loop by Zaweba](https://www.zaweba.com/software/loop/) | Music maker | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/loop-v1.0.6/ZawebaLoop-1.0.6.zip) (214 MB) |
 | [Macro by Zaweba](https://www.zaweba.com/software/macro/) | Macro recorder | 1.0.8 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/macro-v1.0.8/ZawebaMacro-1.0.8.zip) (65 MB) |
 | [Mix by Zaweba](https://www.zaweba.com/software/mix/) | DJ mixer | 1.0.5 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/mix-v1.0.5/ZawebaMix-1.0.5.zip) (89 MB) |
