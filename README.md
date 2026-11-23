@@ -22,7 +22,6 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Colour by Zaweba](https://www.zaweba.com/software/colour/) | Screen colour picker | 1.0.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/colour-v1.0.2/ZawebaColour-1.0.2.zip) (0.2 MB) |
 | [Contact by Zaweba](https://www.zaweba.com/software/contact-manager/) | Contact and enquiry manager | 4.0.0 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/contact-v4.0.0/ZawebaContact-4.0.0-beta.zip) (97 MB) |
 | [Cut by Zaweba](https://www.zaweba.com/software/cut/) | Video cutter and converter | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/cut-v1.0.6/ZawebaCut-1.0.6.zip) (87 MB) |
-| [Disk Sort by Zaweba](https://www.zaweba.com/software/disk-sort/) | Disk space analyser and photo sorter | 0.1.14 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/disksort-v0.1.14/ZawebaDiskSort-0.1.14.zip) (67 MB) |
 | [Easel by Zaweba](https://www.zaweba.com/software/easel/) | Natural-media painting studio | 1.2.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/easel-v1.2.2/ZawebaEasel-1.2.2.zip) (66 MB) |
 | [Family by Zaweba](https://www.zaweba.com/software/family/) | Family tree builder | 1.0.6 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/family-v1.0.6/ZawebaFamily-1.0.6.zip) (67 MB) |
 | [Font by Zaweba](https://www.zaweba.com/software/font/) | Font maker | 1.0.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/font-v1.0.7/ZawebaFont-1.0.7.zip) (87 MB) |
@@ -58,6 +57,7 @@ administrator rights. Windows 10 or 11, 64-bit.
 | [Video by Zaweba](https://www.zaweba.com/software/video/) | Video editor | 0.5.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/video-v0.5.2/ZawebaVideo-0.5.2.zip) (563 MB) |
 | [Wonder by Zaweba](https://www.zaweba.com/software/wonder/) | Offline encyclopedia | 1.0.7 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/wonder-v1.0.7/ZawebaWonder-1.0.7.zip) (68 MB) |
 | [Write by Zaweba](https://www.zaweba.com/software/write/) | Word processor | 1.3.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/write-v1.3.2/ZawebaWrite-1.3.2.zip) (70 MB) |
+| [Zaweba Disk Sort](https://www.zaweba.com/software/disk-sort/) | Disk space analyser and photo sorter | 0.1.15 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/disksort-v0.1.15/ZawebaDiskSort-0.1.15.zip) (67 MB) |
 | [ZIP by Zaweba](https://www.zaweba.com/software/zip/) | ZIP archive tool | 1.0.2 | [Download ZIP](https://github.com/Zaweba/zaweba-downloads/releases/download/zip-v1.0.2/ZawebaZip-1.0.2.zip) (66 MB) |
 
 Each app's release page ([Releases](https://github.com/Zaweba/zaweba-downloads/releases)) has its install notes, requirements and the
